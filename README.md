@@ -15,6 +15,7 @@ Longevity: Data is stored in sustainable, open formats (PDF/A, TXT, XML, FLAC) r
 Accessibility: Physical capsules are exposed in public halls, not hidden. Maintenance and updates are part of academic curricula.
 Interactivity: A low-power "pilot system" (e.g., Raspberry Pi + Solar) activates on voice command, learning the opener's language to guide data access.
 Multidisciplinary: A collaborative effort involving History, Sociology, Computer Science, Engineering, and Linguistics.
+
 📦 Proposed Architecture
 1. The Data Layer (The "Glass")
 Storage Medium: Inspired by Project Silica (5D optical glass) or archival-grade M-Disc/Flash.
@@ -32,12 +33,14 @@ Activation: Physical rotary key or voice trigger.
 Managed by local universities or cultural institutions.
 Regular updates (monthly/yearly) via a secure external interface.
 Curated by a committee of students and faculty from diverse departments.
+
 🛣️ Roadmap (Draft)
 [ ] Phase 0: Community Building & Concept Refinement (Current)
 [ ] Phase 1: Define Data Schema & Metadata Standards (JSON-LD for cultural artifacts)
 [ ] Phase 2: Develop Prototype Software (Python scripts for data ingestion & basic LLM interaction)
 [ ] Phase 3: Physical Design Specs (CAD files for Faraday cage, solar integration)
 [ ] Phase 4: Pilot Deployment (Partner with 1-3 universities for alpha testing)
+
 🤝 How to Contribute
 We are in the ideation phase. Your insights are valuable.
 
