@@ -34,12 +34,17 @@ Managed by local universities or cultural institutions.
 Regular updates (monthly/yearly) via a secure external interface.
 Curated by a committee of students and faculty from diverse departments.
 
-🛣️ Roadmap (Draft)
-[x] Phase 0: Community Building & Concept Refinement
-[ ] Phase 1: Define Data Schema & Metadata Standards (JSON-LD for cultural artifacts)
-[ ] Phase 2: Develop Prototype Software (Python scripts for data ingestion & basic LLM interaction)
-[ ] Phase 3: Physical Design Specs (CAD files for Faraday cage, solar integration)
-[ ] Phase 4: Pilot Deployment (Partner with 1-3 universities for alpha testing)
+## 🛣️ Roadmap
+
+- [x] **Phase 0:** Community Building & Concept Refinement (Done)
+- [ ] **Phase 1:** Define Data Schema & Metadata Standards
+  - *Status:* Draft schema available in `/docs`. Seeking review from Information Science experts.
+- [ ] **Phase 2:** Develop Prototype Software
+  - *Status:* Architecture defined (Python/SQLite/LLM). Seeking collaborators for script development and dataset curation.
+- [ ] **Phase 3:** Physical Design Specs
+  - *Status:* Requirements list compiled. Seeking engineering partners for CAD design and material testing.
+- [ ] **Phase 4:** Pilot Deployment
+  - *Goal:* Partner with 1-3 universities for alpha testing of the full protocol.   
 
 🤝 How to Contribute
 We are in the ideation phase. Your insights are valuable.
