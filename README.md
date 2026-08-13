@@ -41,9 +41,10 @@ Curated by a committee of students and faculty from diverse departments.
   - *Status:* Draft schema available in `/docs`. Seeking review from Information Science experts.
 - [x] **Phase 2:** Develop Prototype Software
   - *Status:* Two-stage architecture defined (Pilot + Main Core). Seeking embedded systems and AI optimization partners.
-- [ ] **Phase 3:** Physical Design Specs
+- [x] **Phase 3:** Physical Design Specs (Hardware, Mining, Bio-Lab)
   - *Status:* Requirements list compiled. Seeking engineering partners for CAD design and material testing.
-- [ ] **Phase 4:** Pilot Deployment
+- [ ] **Phase 4:** Portable University Curriculum (Digital + Analog Syllabi for Medicine, Engineering, Ag)
+- [ ] **Phase 5:** Pilot Deployment
   - *Goal:* Partner with 1-3 universities for alpha testing of the full protocol.   
 
 🤝 How to Contribute
