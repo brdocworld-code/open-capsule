@@ -1,0 +1,18 @@
+{
+  "@context": "https://open-capsule.org/context/v1",
+  "@type": "CulturalArtifact",
+  "@id": "urn:uuid:12345678-1234-1234-1234-1234567890ab",
+  "metadata": { "created": "2026-08-13T10:00:00Z", "ingestor": "Local University Archive", "license": "CC-BY-4.0" },
+  "artifact": {
+    "title": { "en": "City Council Approves New Water Recycling Plant" },
+    "type": "NewsArticle",
+    "format": "PDF/A-3",
+    "language": ["en"],
+    "hash_sha256": "abc123..."
+  },
+  "context": {
+    "temporal": { "date": "2026-08-13", "significance": "Critical infrastructure response to regional drought." },
+    "spatial": { "location_name": "Austin, Texas, USA", "scope": "Local" },
+    "cultural": { "creator": "Austin Daily News", "keywords": ["water", "infrastructure", "drought", "city council"] }
+  }
+}   
