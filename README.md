@@ -35,7 +35,7 @@ Regular updates (monthly/yearly) via a secure external interface.
 Curated by a committee of students and faculty from diverse departments.
 
 🛣️ Roadmap (Draft)
-[ ] Phase 0: Community Building & Concept Refinement (Current)
+[x] Phase 0: Community Building & Concept Refinement
 [ ] Phase 1: Define Data Schema & Metadata Standards (JSON-LD for cultural artifacts)
 [ ] Phase 2: Develop Prototype Software (Python scripts for data ingestion & basic LLM interaction)
 [ ] Phase 3: Physical Design Specs (CAD files for Faraday cage, solar integration)
