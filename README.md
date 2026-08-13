@@ -17,7 +17,8 @@ Unlike traditional archives buried in vaults, Open Capsules are public, updatabl
   - Multidisciplinary: A collaborative effort involving History, Sociology, Computer Science, Engineering, and Linguistics.
 
 ## 📦 Proposed Architecture
-  1. The Data Layer (The "Glass")
+
+## 1. The Data Layer (The "Glass")
   - Storage Medium: Inspired by Project Silica (5D optical glass) or archival-grade M-Disc/Flash.
   - File Formats:
   - 📄 Text: UTF-8 .txt, PDF/A-3, XML
