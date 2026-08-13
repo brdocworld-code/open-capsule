@@ -40,7 +40,7 @@ Curated by a committee of students and faculty from diverse departments.
 - [x] **Phase 1:** Define Data Schema & Metadata Standards
   - *Status:* Draft schema available in `/docs`. Seeking review from Information Science experts.
 - [x] **Phase 2:** Develop Prototype Software
-  - *Status:* Architecture defined (Python/SQLite/LLM). Seeking collaborators for script development and dataset curation.
+  - *Status:* Two-stage architecture defined (Pilot + Main Core). Seeking embedded systems and AI optimization partners.
 - [ ] **Phase 3:** Physical Design Specs
   - *Status:* Requirements list compiled. Seeking engineering partners for CAD design and material testing.
 - [ ] **Phase 4:** Pilot Deployment
