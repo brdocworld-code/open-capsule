@@ -1,8 +1,8 @@
-🌍 Open Capsule: A Living Cultural Insurance Protocol
-Status: 🚧 Concept Phase / Incubation
-Version: 0.1.0 (Draft)
-License: [To Be Defined - Suggestion: CC0 or MIT]
-Languages: 🇬🇧 English (Master) | 🇪🇸 Español | 🇵🇹 Português | 🇫🇷 Français (Coming Soon)
+## 🌍 Open Capsule: A Living Cultural Insurance Protocol
+# Status: 🚧 Concept Phase / Incubation
+# Version: 0.1.0 (Draft)
+# License: MIT
+# Languages: 🇬🇧 English (Master) | 🇪🇸 Español | 🇵🇹 Português | 🇫🇷 Français (Coming Soon)
 
 📜 Vision
 Open Capsule is a decentralized, living time capsule protocol designed to preserve local culture, knowledge, and technological context against civilizational collapse, natural disasters, or technological reset.
@@ -37,9 +37,9 @@ Curated by a committee of students and faculty from diverse departments.
 ## 🛣️ Roadmap
 
 - [x] **Phase 0:** Community Building & Concept Refinement (Done)
-- [ ] **Phase 1:** Define Data Schema & Metadata Standards
+- [x] **Phase 1:** Define Data Schema & Metadata Standards
   - *Status:* Draft schema available in `/docs`. Seeking review from Information Science experts.
-- [ ] **Phase 2:** Develop Prototype Software
+- [x] **Phase 2:** Develop Prototype Software
   - *Status:* Architecture defined (Python/SQLite/LLM). Seeking collaborators for script development and dataset curation.
 - [ ] **Phase 3:** Physical Design Specs
   - *Status:* Requirements list compiled. Seeking engineering partners for CAD design and material testing.
