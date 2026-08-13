@@ -36,14 +36,16 @@ Curated by a committee of students and faculty from diverse departments.
 
 ## 🛣️ Roadmap
 
-- [x] **Phase 0:** Community Building & Concept Refinement (Done)
+- [x] **Phase 0:** Community Building & Concept Refinement
+  - *Status:* Prospecting early-adopters.
 - [x] **Phase 1:** Define Data Schema & Metadata Standards
   - *Status:* Draft schema available in `/docs`. Seeking review from Information Science experts.
 - [x] **Phase 2:** Develop Prototype Software
   - *Status:* Two-stage architecture defined (Pilot + Main Core). Seeking embedded systems and AI optimization partners.
 - [x] **Phase 3:** Physical Design Specs (Hardware, Mining, Bio-Lab)
   - *Status:* Requirements list compiled. Seeking engineering partners for CAD design and material testing.
-- [ ] **Phase 4:** Portable University Curriculum (Digital + Analog Syllabi for Medicine, Engineering, Ag)
+- [x] **Phase 4:** Portable University Curriculum (Digital + Analog Syllabi for Medicine, Engineering, Ag)
+  - *Status:* Requires testing the AI Tutor with real students in university settings.
 - [ ] **Phase 5:** Pilot Deployment
   - *Goal:* Partner with 1-3 universities for alpha testing of the full protocol.   
 
