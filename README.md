@@ -20,7 +20,7 @@ Unlike traditional archives buried in vaults, Open Capsules are public, updatabl
 
 ## 1. The Data Layer (The "Glass")
   - Storage Medium: Inspired by Project Silica (5D optical glass) or archival-grade M-Disc/Flash.
-  - File Formats:
+## File Formats:
   - 📄 Text: UTF-8 .txt, PDF/A-3, XML
   - 🖼️ Images: PNG, TIFF (uncompressed)
   - 🎵 Audio: FLAC, WAV
