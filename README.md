@@ -66,3 +66,22 @@ Unlike traditional archives buried in vaults, Open Capsules are public, updatabl
   - The Long Now Foundation - 10,000-year thinking.
   - UNESCO Memory of the World - Digital preservation guidelines.
   - Arctic World Archive - Centralized archival (we aim to decentralize this).
+
+## 🎒 Personal Version: The Distributed Node
+We believe resilience comes from diversity. Alongside the Institutional Capsule, we are developing the **Open Capsule Personal Node**: a low-cost, DIY version that individuals can build today.
+
+  - Goal: Enable anyone to curate and preserve their own knowledge subset (medical, technical, cultural) for ~$400-$500 USD.
+  - Tech Stack: Raspberry Pi 5 + M-Disc (1000-year storage) + DIY Faraday Cage.
+  - Interoperability: Uses the same Data Schema and AI Protocol as the Institutional version. Personal nodes can "mesh" with each other to reconstruct larger datasets.
+## Get Started:
+  - 📘 Personal Capsule Specs - Hardware list, cost breakdown, and software setup.
+  - 🛡️ DIY Faraday Cage Guide - Step-by-step instructions to build an EMP-proof enclosure for ~$50.
+  - 🤝 Call for Makers: We need testers to build prototypes and validate the "Box-in-Box" shielding method. Join the discussion in Issues #XX.
+_"Thousands of unique personal capsules ensure that no single point of failure can erase human knowledge."_
+
+## 📂 Updated Project Structure
+To reflect this dual approach, our documentation is now organized as:
+
+  - /docs - Core Institutional Protocol (Phases 1-5, Data Schema, Architecture, Curriculum).
+    - /examples - Sample JSON artifacts and configuration files.
+  - /personal-version - Community DIY Guides (Personal Specs, Faraday Guide, Maker Resources).
