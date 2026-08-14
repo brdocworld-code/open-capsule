@@ -20,10 +20,12 @@ This directory contains the core software for the **Stage 1 Pilot System**, desi
 ```bash
 sudo apt-get update
 sudo apt-get install python3-pip python3-pyaudio espeak-ng portaudio19-dev git
+```
 
 ### 2. Python Dependencies
 ```bash
 pip3 install -r requirements.txt
+```
 
 ### 3. Download Speech Model (Crucial)
 
@@ -44,6 +46,7 @@ _(Optional) Install Piper TTS for better voice quality_: Follow instructions at 
 ### Running the System
 ```bash
 python3 pilot_system.py
+```
 
 ### How It Works
     1. **Boot**: Upon power-up, the system speaks: "Welcome. I am the Open Capsule Pilot System. Please speak to me. I am learning your language."
