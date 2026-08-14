@@ -5,7 +5,7 @@
 ## Languages: 🇬🇧 English (Master)
 ## 🇪🇸 Español | 🇵🇹 Português | 🇫🇷 Français (Coming Soon)
 
-## 📜 Vision
+# 📜 Vision
 Open Capsule is a decentralized, living time capsule protocol designed to preserve local culture, knowledge, and technological context against civilizational collapse, natural disasters, or technological reset.
 
 Unlike traditional archives buried in vaults, Open Capsules are public, updatable, and interactive. Each capsule acts as a "cultural seed": if opened by future survivors or a different civilization, an embedded lightweight AI system learns their language patterns and translates the archived knowledge, enabling a rapid cultural restart.
