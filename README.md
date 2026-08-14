@@ -76,7 +76,8 @@ We believe resilience comes from diversity. Alongside the Institutional Capsule,
 ## Get Started:
   - 📘 Personal Capsule Specs - Hardware list, cost breakdown, and software setup.
   - 🛡️ DIY Faraday Cage Guide - Step-by-step instructions to build an EMP-proof enclosure for ~$50.
-  - 🤝 Call for Makers: We need testers to build prototypes and validate the "Box-in-Box" shielding method. Join the discussion in Issues #XX.
+  - 🤝 Call for Makers: We need testers to build prototypes and validate the "Box-in-Box" shielding method. Join the discussion.
+
 _"Thousands of unique personal capsules ensure that no single point of failure can erase human knowledge."_
 
 ## 📂 Updated Project Structure
