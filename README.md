@@ -2,7 +2,8 @@
 ## Status: 🚧 Concept Phase / Incubation
 ## Version: 0.1.0 (Draft)
 ## License: MIT
-## Languages: 🇬🇧 English (Master) | 🇪🇸 Español | 🇵🇹 Português | 🇫🇷 Français (Coming Soon)
+## Languages: 🇬🇧 English (Master)
+## 🇪🇸 Español | 🇵🇹 Português | 🇫🇷 Français (Coming Soon)
 
 ## 📜 Vision
 Open Capsule is a decentralized, living time capsule protocol designed to preserve local culture, knowledge, and technological context against civilizational collapse, natural disasters, or technological reset.
