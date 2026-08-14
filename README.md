@@ -68,7 +68,7 @@ Unlike traditional archives buried in vaults, Open Capsules are public, updatabl
   - UNESCO Memory of the World - Digital preservation guidelines.
   - Arctic World Archive - Centralized archival (we aim to decentralize this).
 
-## 🎒 Personal Version: The Distributed Node
+# 🎒 Personal Version: The Distributed Node
 We believe resilience comes from diversity. Alongside the Institutional Capsule, we are developing the **Open Capsule Personal Node**: a low-cost, DIY version that individuals can build today.
 
   - Goal: Enable anyone to curate and preserve their own knowledge subset (medical, technical, cultural) for ~$400-$500 USD.
