@@ -63,7 +63,7 @@ Designed to be built with off-the-shelf components available in 2026.
 2.  **Burn:** Write data to M-Discs using a standard Blu-ray burner. Verify hashes.
 3.  **Build:** Assemble the Raspberry Pi, install the OS and AI model (pre-configured image available on GitHub).
 4.  **Shield:** Place the compute module and discs inside the DIY Faraday enclosure.
-5.  **Deploy:** Bury, hide, or store in a safe location. Leave a physical marker or map for future finders.
+5.  **Deploy:** Bury, hide, or store in a safe location for regular updates. Leave a physical marker or map for future finders.
 
 ## 6. Strategic Value
 *   **Redundancy:** If the Institutional Capsule is destroyed, thousands of Personal Capsules may still survive.
