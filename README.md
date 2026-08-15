@@ -87,3 +87,13 @@ To reflect this dual approach, our documentation is now organized as:
   - /docs - Core Institutional Protocol (Phases 1-5, Data Schema, Architecture, Curriculum).
     - /examples - Sample JSON artifacts and configuration files.
   - /personal-version - Community DIY Guides (Personal Specs, Faraday Guide, Maker Resources).
+
+# 🌱 Global Equity & The Open Collective (Future Vision)
+Resilience is a global necessity, but access to hardware is not equally distributed. A $500 or a $5000 setup is trivial for some but a prohibitive barrier for universities, libraries, and makers in developing nations—particularly in regions most vulnerable to technological infrastructure resets.
+
+## We believe the project should remain strictly non-commercial and community-driven:
+  - No Gatekeeping: We will never sell pre-built kits or commercialize the protocol.
+  - Community-Led Grants: Once our core community stabilizes, we intend to launch an Open Collective to pool financial donations.
+  - Hardware Subsidies: 100% of these funds will be managed via decentralized community voting to purchase and ship hardware components directly to low-resource universities and cultural centers worldwide.
+
+_"True civilizational backup cannot belong to the privileged. It belongs to humanity, everywhere."_
